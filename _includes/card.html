@@ -8,7 +8,7 @@
     class="card-image"
   >
     {% if include.video %}
-      <video autoplay muted loop playsinline loading="lazy">
+      <video controls loop playsinline loading="lazy">
         <source src="{{ include.video | relative_url }}" type="video/mp4">
         Your browser does not support the video tag.
       </video>
