@@ -50,7 +50,7 @@ Our projects are both mission- and impact-oriented. We integrate data analytics 
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/project.png"
   link="projects"
   title="Our Projects"
   flip=true
