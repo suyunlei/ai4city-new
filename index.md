@@ -75,7 +75,7 @@ Our team is a diverse and talented group of researchers, including PhD candidate
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/group.jpg"
   link="team"
   title="Our Team"
   text=text
