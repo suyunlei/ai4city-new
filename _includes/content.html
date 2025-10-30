@@ -18,6 +18,10 @@
     | regex_scan: "<background>(.*?)</background>"
     | default: nil
   %}
+  {% assign video = section
+    | regex_scan: "<video>(.*?)</video>"
+    | default: nil
+  %}
   {% assign size = section
     | regex_scan: "<size>(.*?)</size>"
     | default: "page"
@@ -33,6 +37,11 @@
       style="--image: url('{{ image | relative_url | uri_escape }}')"
     {% endif %}
   >
+    {% if video %}
+      <video autoplay muted loop playsinline class="background-video">
+        <source src="{{ video | relative_url }}" type="video/mp4">
+      </video>
+    {% endif %}
     {{ section }}
   </section>
 {% endfor %}
