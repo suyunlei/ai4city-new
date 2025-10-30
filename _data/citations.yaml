@@ -14,6 +14,17 @@
   orcid: 0009-0008-0933-6439
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.1109/ACCESS.2023.3309007
+  title: 'Research on Forecasting and Risk Measurement of Internet Money Fund Returns
+    Based on Error-Corrected 1DCNN-LSTM-SAM and VaR: Evidence From China'
+  authors:
+  - Wang Tengxi
+  publisher: IEEE Access
+  date: '2023-01-01'
+  link: https://doi.org/g98k4w
+  orcid: 0009-0000-1071-5251
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1371/journal.pcbi.1007128
   title: Open collaborative writing with Manubot
   authors:
