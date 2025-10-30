@@ -27,7 +27,7 @@ Our research is being conducted in two aspects. Firstly, a 3D city scene environ
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/research-field.jpg"
   link="research"
   title="Our Research"
   text=text

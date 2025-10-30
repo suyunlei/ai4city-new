@@ -7,8 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-microscope" %}Research
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Our research is being conducted in two aspects. Firstly, a 3D city scene environment (including structured LoDs building models, infrastructures, land covers, etc.) reconstruction framework is being built on which any geo-referenced objects model at the instance level can be founded. Secondly, it is being studied how GIS, IoT data can be modeled in an nD way accordingly for specific application fields (e.g., built-environment, human dynamic, public health, urban climate, etc.)
 
 {% include section.html %}
 

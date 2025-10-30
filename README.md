@@ -3,7 +3,7 @@
   ![on-pull-request](../../actions/workflows/on-pull-request.yaml/badge.svg)
   ![on-schedule](../../actions/workflows/on-schedule.yaml/badge.svg)
 
-  # suyunlei's Website
+  # AI4CITY Website
 
   Visit **[suyunlei.github.io/ai4city-new](https://suyunlei.github.io/ai4city-new)** 🚀
 
