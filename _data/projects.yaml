@@ -9,7 +9,7 @@
 
 - title: 3D VR Scene in Different LODs
   group: featured
-  video: images/3dvr.mp4
+  video: images/vrdemo.mp4
   # link: https://github.com/
   description: A study where participants interact with VR scenes at different Levels of Detail (LOD), collecting interaction data to explore the relationship between human behavior and LOD fidelity. The research investigates how varying levels of visual complexity influence user perception, navigation patterns, and decision-making in virtual environments.
   repo: greenelab/lab-website-template
