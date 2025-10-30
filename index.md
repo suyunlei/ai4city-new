@@ -60,7 +60,7 @@ Our projects are both mission- and impact-oriented. We integrate data analytics 
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Our team is a diverse and talented group of researchers, including PhD candidates, MPhil students, Research Associates (RAs), and visiting students from around the world. Each member brings unique expertise and perspectives from varied academic and professional backgrounds, creating a dynamic collaborative environment. Together, we are committed to advancing cutting-edge research in AI-driven urban modeling and making meaningful contributions to sustainable city development.
 
 {%
   include button.html
