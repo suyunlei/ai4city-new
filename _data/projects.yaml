@@ -1,47 +1,36 @@
-- title: Cool Dataset
-  subtitle: a subtitle
+- title: 3D City Generation from A Single Satellite Image
   group: featured
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+  video: images/3dsingle.mp4
+  link: https://ai4city-hkust.github.io/Sat2City/
+  description: Sat2City is a framework for 3D City Generation from a single Satellite-derived Height Map.
+  # repo: greenelab/lab-website-template
   tags:
-    - resource
+    - 3D-City
 
-- title: Cool Package
-  subtitle: a subtitle
+- title: 3D VR Scene in Different LODs
   group: featured
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  video: images/3dvr.mp4
+  # link: https://github.com/
+  description: A study where participants interact with VR scenes at different Levels of Detail (LOD), collecting interaction data to explore the relationship between human behavior and LOD fidelity. The research investigates how varying levels of visual complexity influence user perception, navigation patterns, and decision-making in virtual environments.
   repo: greenelab/lab-website-template
   tags:
-    - resource
+    - human-building-interaction
 
-- title: Cool Tutorial
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+- title: 3D Scene Reconstruction of HKUST-GZ using 3D Gaussian splatting
+  video: images/3drebuild.mp4
+  # link: https://github.com/
+  description: 3D Scene Reconstruction of HKUST-GZ using 3D Gaussian splatting
+  # repo: greenelab/lab-website-template
   tags:
-    - resource
-    - publication
+    - 3D-rebuild
+    - 3D-Gaussian-splatting
 
-- title: Cool Web App
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+- title: Spatiotemporal Statistical Modeling
+  subtitle: gdverse, an R package for spatial stratified heterogeneity family
+  group: featured
+  image: images/gdverse_figure1.jpg
+  # link: https://github.com/
+  description: Analyzing spatial factors and exploring spatial associations based on the concept of spatial stratified heterogeneity, while also taking into account local spatial dependencies, spatial interpretability, complex spatial interactions, and robust spatial stratification. Additionally, it supports the spatial stratified heterogeneity family established in academic literature.
+  # repo: greenelab/lab-website-template
   tags:
-    - software
-
-- title: Cool Web Server
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - software
+    - package

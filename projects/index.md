@@ -7,8 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-wrench" %}Projects
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Our projects are both mission- and impact-oriented. We integrate data analytics and modeling technologies to achieve specific goals and contribute to the public good. Whether we are developing a physical product, analyzing trends at micro and macro levels, or creating new processes for optimal efficiencies, our work is always focused on sustainable development of the urban environment.
 
 {% include tags.html tags="publication, resource, website" %}
 
@@ -22,6 +21,6 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 
 {% include section.html %}
 
-## More
+<!-- ## More
 
-{% include list.html component="card" data="projects" filter="!group" style="small" %}
+{% include list.html component="card" data="projects" filter="!group" style="small" %} -->
